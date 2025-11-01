@@ -1,0 +1,76 @@
+[
+  {
+    "order_id": 13,
+    "order_date": "2024-01-20",
+    "total_amount": 275.00,
+    "customer": {
+      "customer_id": 113,
+      "name": "Michael Brown",
+      "email": "michaelb@example.com",
+      "address": "111 Pine St, Springfield"
+    },
+    "products": [
+      {
+        "product_id": "P07",
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "price": 79.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P08",
+        "name": "Phone Stand",
+        "category": "Accessories",
+        "price": 19.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": 14,
+    "order_date": "2024-01-21",
+    "total_amount": 420.50,
+    "customer": {
+      "customer_id": 114,
+      "name": "Sarah Wilson",
+      "email": "sarahw@example.com",
+      "address": "222 Cedar St, Springfield"
+    },
+    "products": [
+      {
+        "product_id": "P09",
+        "name": "Smart Watch",
+        "category": "Wearables",
+        "price": 199.99,
+        "quantity": 2
+      },
+      {
+        "product_id": "P10",
+        "name": "Screen Protector",
+        "category": "Accessories",
+        "price": 10.26,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 15,
+    "order_date": "2024-01-22",
+    "total_amount": 89.97,
+    "customer": {
+      "customer_id": 115,
+      "name": "David Lee",
+      "email": "davidl@example.com",
+      "address": "333 Maple St, Springfield"
+    },
+    "products": [
+      {
+        "product_id": "P11",
+        "name": "USB-C Cable",
+        "category": "Accessories",
+        "price": 14.99,
+        "quantity": 6
+      }
+    ]
+  }
+]
